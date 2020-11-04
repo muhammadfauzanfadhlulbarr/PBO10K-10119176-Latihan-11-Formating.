@@ -1,3 +1,11 @@
+/**
+ * Latihan12
+ * Nama     : Muhammad Fauzan Fadhlulbarr
+ * Kelas    : PBO10K
+ * NIM      : 10119176
+ * Program  : Aritmatika
+ */
+
 public class Latihan12 {
     public static void main(String[] args) {
         int a = 10;
